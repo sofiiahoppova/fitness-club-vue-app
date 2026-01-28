@@ -1,0 +1,29 @@
+<template>
+  <svg
+    width="120"
+    height="120"
+    viewBox="0 0 120 120"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle cx="60" cy="60" r="59.5" fill="black" stroke="black" />
+    <path
+      d="M61 57C67.6274 57 73 62.3726 73 69C73 75.6274 67.6274 81 61 81H49V93C49 99.6274 43.6274 105 37 105C30.3726 105 25 99.6274 25 93V71C25 63.268 31.268 57 39 57H61ZM84 15C90.6274 15 96 20.3726 96 27C96 33.6274 90.6274 39 84 39H36C29.3726 39 24 33.6274 24 27C24 20.3726 29.3726 15 36 15H84Z"
+      fill="white"
+    />
+    <circle cx="36" cy="27" r="12" fill="#F786FF" />
+    <line
+      x1="37"
+      y1="69"
+      x2="37"
+      y2="93"
+      stroke="#F786FF"
+      stroke-width="24"
+      stroke-linecap="round"
+    />
+  </svg>
+</template>
+
+<script></script>
+
+<style scoped></style>
